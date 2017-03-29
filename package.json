@@ -1,0 +1,26 @@
+{
+  "name": "px",
+  "version": "1.0.0",
+  "description": "个人摄影图片展示 纯前端网页 使用：vue.js",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxf14/px.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxf14/px/issues"
+  },
+  "homepage": "https://github.com/zxf14/px#readme",
+  "devDependencies": {
+    "crypto-browserify": "^3.11.0",
+    "lodash": "^4.17.4",
+    "min": "^0.1.17",
+    "min-model": "^0.1.11",
+    "qiniu.js": "^0.1.2"
+  }
+}
